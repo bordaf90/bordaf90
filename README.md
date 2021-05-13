@@ -1,6 +1,6 @@
 # Hello, my name is Abraham Borda.
 
-## I'm an studient of Licenciatura en Ciencia de Datos (Data Science) by Universidad de Buenos Aires. 
+## I'm an studient of Licenciatura en Ciencias de la Computación (Computer Science) by Universidad de Buenos Aires. 
 ### Building mathematical models to answer about questions world is my objective and my passion.
 ### Also, I Am interested in fintech world, financial's trade and economics business.
 ### Skills:
